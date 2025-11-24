@@ -155,9 +155,6 @@ Name of Account Holder : John
 
 Enter the Operation Number : 5
 
-
-
-
 -----------------------------
 
 Thank you for Banking with Us
